@@ -1,0 +1,10 @@
+class launch
+{
+    voidm1()
+    {
+        //some code
+     }
+    {
+         //some code
+     }
+}
