@@ -5,6 +5,6 @@ class launch
         //some code
      }
     {
-         //some code
+         System.out.println("hello Java Lovers");
      }
 }
